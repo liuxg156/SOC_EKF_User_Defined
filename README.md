@@ -1,6 +1,5 @@
 # SOC_EKF_User_Defined
-基于EKF原理，在simulink中搭建用于电池SOC计算的EKF模块
-说明：
+基于EKF原理，在simulink中搭建用于电池SOC计算的EKF模块，导出为Matlab2017a版本：
 1. 以simulink基本模块搭建EKF算法，用于计算电池SOC；
 2. 电池为NCM电池，标称容量为2.9Ah，测试工况为UDDS工况，由于数据为电池初期数据，实际可用容量为3.1Ah左右；
 3. 电池模型为二阶RC模型；
