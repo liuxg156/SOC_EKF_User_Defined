@@ -1,0 +1,2 @@
+# SOC_EKF_User_Defined
+基于EKF原理，在simulink中搭建用于电池SOC计算的EKF模块
